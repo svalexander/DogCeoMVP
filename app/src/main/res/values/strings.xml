@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DogCeoMVP</string>
+    <string name="prompt">Please choose a breed:</string>
+    <string name="error_img">Unable to load images</string>
+</resources>
